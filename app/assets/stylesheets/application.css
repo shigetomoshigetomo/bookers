@@ -14,11 +14,6 @@
  *= require_self
  */
 
-*{
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
-}
 
 body{
   background-color: #fff;
@@ -40,3 +35,6 @@ strong{
   font-weight: bold;
 }
 
+.success{
+  color:green;
+}
